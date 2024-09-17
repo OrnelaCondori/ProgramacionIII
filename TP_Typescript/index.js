@@ -1,4 +1,4 @@
-//Ejercicio 3
+//Ejercicio 3 VARIABLES
 console.log("Estoy trabajando en Typescript");
 var myTexto = "Hola";
 var myNumero = 42;
@@ -17,7 +17,7 @@ function numString() {
     document.getElementById('numTexto').textContent += numeroTexto.toString();
 }
 document.addEventListener("DOMContentLoaded", numString);
-//Ejercicio 5
+//Ejercicio 5 ARRAYS
 var numeros = [4, 21, 11];
 var suma = 0;
 numeros.forEach(function (a) {
